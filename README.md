@@ -1,13 +1,13 @@
 
-<h1 align="center" style="color:#004aad;">📊 Análise de Vendas e Desempenho das Loja</h1>
+<h1 align="center" style="color:#004aad;">Análise de Vendas e Desempenho das Loja</h1>
 
 <p align="center">
-  <em>Projeto desenvolvido para explorar padrões de vendas, categorias mais populares e desempenho das lojas utilizando Python e DuckDB.</em>
+  <em>Projeto de análise de dados para gerar insights acionáveis sobre o desempenho comercial. A análise investiga padrões de vendas, a popularidade de categorias e a performance financeira de cada loja para otimizar os resultados..</em>
 </p>
 
 ---
 
-## 🚀 <span style="color:#004aad;"> Etapas do Projeto</span>
+## <span style="color:#004aad;"> Etapas do Projeto</span>
 
 ###  <span style="color:#2e8b57;"> 1. Processamento e Transformação dos Dados</span>
 - Os dados foram coletados a partir de arquivos CSV locais.
@@ -115,7 +115,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 </p>
 
 ---
-<h1 align="center" style="color:#2F5496;">📊 Relatório de Desempenho da Rede <strong>AluraStore</strong></h1>
+<h1 align="center" style="color:#2F5496;">Relatório de Desempenho da Rede <strong>AluraStore</strong></h1>
 
 <p align="center">
   <em>Fonte de dados:</em> <code>Arquivos CSV das lojas</code> consolidando <strong>9.435 vendas</strong> das quatro lojas da rede.<br>
@@ -124,7 +124,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## 🏪 1. Faturamento Total por Loja
+## 1. Faturamento Total por Loja
 
 <p>O <strong>faturamento</strong> é a principal métrica de desempenho financeiro. A tabela abaixo resume os resultados:</p>
 
@@ -140,7 +140,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
     <tr>
       <td><strong>Loja 1</strong></td>
       <td style="color:#2F5496; font-weight:bold;">R$ 1.534.509,12</td>
-      <td>1º 🥇</td>
+      <td>1º</td>
     </tr>
     <tr>
       <td><strong>Loja 2</strong></td>
@@ -166,7 +166,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## ⭐ 2. Média de Avaliação dos Clientes
+## 2. Média de Avaliação dos Clientes
 
 <p>A satisfação do cliente foi analisada a partir da média das avaliações:</p>
 
@@ -182,7 +182,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## 🚚 3. Custo Médio do Frete por Loja
+## 3. Custo Médio do Frete por Loja
 
 <p>O custo logístico é um fator determinante para a margem de lucro. A seguir, a média de frete por loja:</p>
 
@@ -223,7 +223,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 <p>O desempenho das categorias mostra os principais motores de receita.</p>
 
-### 📈 Faturamento por Categoria
+### Faturamento por Categoria
 <table>
   <thead>
     <tr>
@@ -251,7 +251,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 <!-- Inserir gráfico de pizza ou colunas de faturamento por categoria -->
 
-### 📦 Volume de Unidades Vendidas
+### Volume de Unidades Vendidas
 <table>
   <thead>
     <tr>
@@ -279,11 +279,11 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## 💡 5. Cenários Estratégicos
+## 5. Cenários Estratégicos
 
 <p>Com base nas métricas, foram definidos dois cenários para a decisão de venda:</p>
 
-### 🔹 Cenário 1 – Vender a Loja de Pior Desempenho <span style="color:#70AD47;">(Recomendado)</span>
+### Cenário 1 – Vender a Loja de Pior Desempenho <span style="color:#70AD47;">(Recomendado)</span>
 
 - **Recomendação:** Vender a <strong>Loja 4</strong>  
 - **Justificativa:** É o ativo de <strong>menor receita</strong> da rede.  
@@ -292,7 +292,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-### 🔸 Cenário 2 – Vender a Loja de Maior Valor <span style="color:#C00000;">(Alternativa)</span>
+### Cenário 2 – Vender a Loja de Maior Valor <span style="color:#C00000;">(Alternativa)</span>
 
 - **Alternativa:** Vender a <strong>Loja 1</strong>  
 - **Justificativa:** Se o objetivo for <strong>maximizar o retorno imediato</strong>,  
@@ -301,7 +301,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## ✅ Recomendação Final
+## Recomendação Final
 
 > A decisão mais segura e racional é **vender a Loja 4**.
 
@@ -312,7 +312,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## 📘 Resumo Executivo
+## Resumo Executivo
 
 <table>
   <thead>
