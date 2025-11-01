@@ -292,7 +292,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-### Cenário 2 – Vender a Loja de Maior Valor <span style="color:#C00000;">(Alternativa)</span>
+### Cenário 2 – Vender a Loja de Maior Dificuldade Operacional <span style="color:#C00000;">(Alternativa)</span>
 
 - **Alternativa:** Vender a <strong>Loja 1</strong>  
 - **Justificativa:** Se o objetivo for <strong>maximizar o retorno imediato</strong>,  
