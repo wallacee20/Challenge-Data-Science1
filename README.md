@@ -341,4 +341,14 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
   </tbody>
 </table>
 
-<!-- Inserir gráfico final de resumo visual ou dashboard -->
+## Justificativa da Recomendação
+* Proteção da Receita Principal: A Loja 1 é o nosso ativo de maior faturamento (R$ 1,53M). Vender nossa loja mais lucrativa, mesmo que operacionalmente difícil, causaria o maior impacto negativo em nossa receita global. Estaríamos cortando nossa principal fonte de receita.
+
+* Impacto Financeiro Mínimo: A Loja 4, por ser a de menor faturamento, é o ativo que menos contribui para o resultado total. Sua venda terá o menor impacto na receita global da rede.
+
+* Manutenção de Ativos Rentáveis: A decisão de vender a Loja 4 nos permite manter as lojas mais rentáveis e consistentes (incluindo a Loja 1) em nosso portfólio. Podemos usar o capital liberado pela venda da Loja 4 para, inclusive, investir na melhoria dos processos operacionais da Loja 1.
+
+#### Resumo da Recomendação
+- A venda da Loja 1 traria um retorno imediato maior, mas ao custo de sacrificar nosso maior faturamento.
+
+- A venda da Loja 4 é a decisão mais segura e racional. Ela otimiza nosso portfólio, reduz o impacto financeiro negativo e libera capital, permitindo-nos focar em fortalecer as lojas que mais geram receita.
