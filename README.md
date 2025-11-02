@@ -219,7 +219,7 @@ Essa análise é crucial para definir estratégias de estoque, marketing e logí
 
 ---
 
-## 🛒 4. Análise de Categorias e Produtos (Nível Rede)
+## 4. Análise de Categorias e Produtos (Nível Rede)
 
 <p>O desempenho das categorias mostra os principais motores de receita.</p>
 
