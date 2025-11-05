@@ -9,7 +9,7 @@
 
 ## <span style="color:#004aad;"> Etapas do Projeto</span>
 
-###  <span style="color:#2e8b57;"> 1. Processamento e Transformação dos Dados</span>
+###  <span style="color:#2e8b57;">  Processamento e Transformação dos Dados</span>
 - Os dados foram coletados a partir de arquivos CSV locais.
 - O carregamento foi feito utilizando **Pandas** para processar e transformar os CSVs em Dataframes
 ---
@@ -42,7 +42,7 @@ Por exemplo:
 <p> Assim, é possível agrupar por <strong>ano</strong> e <strong>mês</strong> para identificar padrões de comportamento ao longo do tempo. </p>
 
 
-## <span style="color:#004aad;">2. Etapas da Análise</span>
+## <span style="color:#004aad;">Etapas da Análise</span>
 
 A seguir estão descritas as principais análises conduzidas no notebook, com suporte visual dos gráficos gerados.
 
